@@ -20,3 +20,11 @@ input {
   margin: 4px 2px;
   cursor: pointer;
 }
+
+h3 {
+  color: rgb(175, 24, 162);
+   margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
